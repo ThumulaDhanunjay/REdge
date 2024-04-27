@@ -478,7 +478,7 @@ marquee{
 }
 /*Mobile responsive */
 
-@media only screen and (max-width: 700px) {
+@media only screen and (max-width: 800px) {
     body{
         overflow-x: hidden;
         background-color: #020002;
